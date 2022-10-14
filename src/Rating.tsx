@@ -15,7 +15,7 @@ function Rating() {
 
   return (
     <main className='flex flex-col w-[375px] justify-center  bg-[#bba79c]  items-stretch rounded-xl p-6'>
-      <img className='p-3 bg-[#00886c] rounded-full self-start' src="public/icon-star.svg" alt="" />
+      <img className='p-3 bg-[#00886c] rounded-full self-start' src="icon-star.svg" alt="" />
       <h1 className="my-4 text-3xl font-bold text-left text-[#4d4848]">
         How did we do?
       </h1>
